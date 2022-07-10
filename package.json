@@ -1,0 +1,22 @@
+{
+  "name": "leech",
+  "version": "1.0.0",
+  "description": "Plugin leech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+},
+  "keywords": [],
+  "author": "baka9x",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "date-and-time": "^2.4.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "express-validator": "^6.14.2",
+    "handlebars-dateformat": "^1.1.2",
+    "nodemon": "^2.0.19"
+  }
+}
