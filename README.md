@@ -1,2 +1,3 @@
-# bakamanga
-Baka Manga Reader Wordpress API
+# Blank Template Nodejs HBS Materialize HTML
+
+Run: npm install
